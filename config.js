@@ -4,14 +4,14 @@ const chalk = require('chalk')
 global.apikey = 'isi apikey lu'
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'Professor'
+global.namabot = 'Evan-Bots'
+global.namaowner = 'Evan'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6283890107168'
-global.nomorlu = '6283890107168'
-global.ownernomer = ["6283890107168"]
-global.premium = ['6285950285917']
+global.owner = '6285280319856'
+global.nomorlu = '6285280319856'
+global.ownernomer = ["6285280319856"]
+global.premium = ['6285280319856']
 
 //—————「 Set Wm 」—————//
 global.packname = 'GabutBot'
